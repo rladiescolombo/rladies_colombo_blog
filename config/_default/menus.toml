@@ -5,32 +5,49 @@
 [[main]]
   name = "Home"
   url = "#demo_home"
+  weight = 5
+  
+[[main]]
+  name = "About Us"
+  url = "#about"
   weight = 10
 
-[[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Events"
+  url = "#talks"
+  weight = 20
+  
+[[main]]
+  name = "Blog"
+  url = "#posts"
   weight = 30
 
+  
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Get Involved"
+  url = "#projects"
   weight = 40
 
+#[[main]]
+#  name = "R-Ladies Global"
+#  url = "https://rladies.org/about-us/"
+#  weight = 50
+  
 [[main]]
-  name = "Courses"
-  url = "courses/"
-  weight = 50
+  name = "Gallery"
+  url = "#gallery"
+  weight = 55
+  
+[[main]]
+  name = "Board"
+  url = "#Board"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

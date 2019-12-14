@@ -2,8 +2,8 @@
   "name": "R-Ladies Colombo",
   "short_name": "R-Ladies Colombo",
   "lang": "en-us",
-  "theme_color": "#39104a",
-  "background_color": "#39104a",
+  "theme_color": "#a94ecf",
+  "background_color": "#a94ecf",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",

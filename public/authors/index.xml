@@ -17,9 +17,19 @@
       <link>/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
+      <description>
 
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.&lt;/p&gt;
+&lt;h2 id=&#34;welcome-to-r-ladies-colombo&#34;&gt;Welcome to R-Ladies Colombo!&lt;/h2&gt;
+
+&lt;p&gt;R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community.&lt;/p&gt;
+
+&lt;p&gt;R-Ladies Colombo chapter is a part of the &lt;a href=&#34;https://rladies.org/about-us/&#34;&gt;R-Ladies Global&lt;/a&gt; community with the aim of building a colloboraitve network of R enthusiasts, newbies, learners and  experts to facilitate individual and collective progress while achieving proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community via meetups, mentorship &amp;amp; global collaboration!. There are 140+ R-Ladies chapters worldwide and R-Ladies Colombo is the first ever chapter in Sri Lanka. As a founding principle, there is no cost or charge to participate in any of our R-Ladies chapter events. To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the &lt;a href=&#34;https://rladies.org/code-of-conduct/&#34;&gt;R-Ladies International Code of Conduct.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out our upcoming events on our &lt;a href=&#34;https://www.meetup.com/pro/rladies&#34;&gt;meetup&lt;/a&gt; page and links to the associated resources on &lt;a href=&#34;https://github.com/rladiescolombo&#34;&gt;GitHub&lt;/a&gt; and visit us on &lt;a href=&#34;https://twitter.com/RLadiesGlobal&#34;&gt;twitter&lt;/a&gt; for regular updates!.&lt;/p&gt;
+
+&lt;p&gt;If you would like present at R-Ladies Colombo or have an idea for an event you would like us to organise (eg: R workshops, career panels, networking events, and talks from package developers), get in contact via twitter XXX or email us at XXX.&lt;/p&gt;
+
+&lt;p&gt;For more information about R-Ladies Global, visit &lt;a href=&#34;https://rladies.org/&#34;&gt;rladies.org&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

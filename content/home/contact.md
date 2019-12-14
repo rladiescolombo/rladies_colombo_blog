@@ -18,3 +18,4 @@ autolink = true
 email_form = 2
 +++
 
+If you would like to present at R-Ladies Colombo or have an idea for an event you would like us to organise, please contact. 

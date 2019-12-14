@@ -36,7 +36,7 @@ subtitle = ""
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -49,11 +49,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-</br> </br></br> </br></br> </br></br> </br></br> 
+</br> </br></br> </br></br> </br>
+<img src="img/CLBhexStickerhome.png" height="0.2"/>
+
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- Add font awesome icons -->
+[R-Ladies is a global community! Check out R-Ladies Global](https://rladies.org/about-us/) </br>
 <a href="https://github.com/rladiescolombo" class="fa fa-github"></a>
  
 </br></br> </br></br> </br></br>
