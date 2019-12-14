@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "pritalagala@gmail.com"
 #phone = ""
 
 # Address
@@ -97,7 +97,7 @@ email = "test@example.org"
 #coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-#directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+directions = "Colombo, Sri Lanka"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

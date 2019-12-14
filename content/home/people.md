@@ -4,10 +4,10 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet the Team"
+title = "Meet Our Team"
 subtitle = ""
 
 [content]
@@ -53,4 +53,21 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
 +++
+<p style="text-align: left;">
+<font size="+4">
+Organizers </font>
+</p>
+
+<font size="+2">
+<p style="text-align: left;">
+[Thiyanga Talagala,](https://thiyanga.netlify.com/) </font></br><font size="+1"> PhD, Monash University, Australia </font> </p>
+
+<img src="img/team/ThiyangaT.png" style="fixed: left;"/>
+
+<font size="+2">
+<p style="text-align: left;">
+[Priyanga Dilini Talagala,](https://prital.netlify.com/) </font></br><font size="+1"> PhD, Monash University, Australia</font>
+</p>
+<img src="img/team/PriyangaT.png" style="fixed: left;" />

@@ -26,8 +26,6 @@ social:
   link: https://github.com/rladiescolombo
 superuser: true
 user_groups:
-- Researchers
-- Visitors
 ---
 ## Welcome to R-Ladies Colombo!
 
