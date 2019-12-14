@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Image from R for Data Science
   focal_point: Smart
 summary: Join the R-Ladies Colombo Chapter!
 tags:

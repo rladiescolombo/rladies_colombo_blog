@@ -4,7 +4,7 @@ external_link: ""
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-links:
+links: ""
 slides: 
 summary: R-Ladies relies on community support to host inclusive and informative events.
 tags:
