@@ -62,12 +62,12 @@ Organizers </font>
 
 <font size="+2">
 <p style="text-align: left;">
-[Thiyanga Talagala,](https://thiyanga.netlify.com/) </font></br><font size="+1"> PhD, Monash University, Australia </br> Co-founder, R-Ladies Colombo</font> </p>
+[Thiyanga Talagala](https://thiyanga.netlify.com/) </font></br><font size="+1"> PhD, Monash University, Australia </br> Co-founder, R-Ladies Colombo</font> </p>
 
 <img src="img/team/ThiyangaT.png" style="fixed: left;"/>
 
 <font size="+2">
 <p style="text-align: left;">
-[Priyanga Dilini Talagala,](https://prital.netlify.com/) </font></br><font size="+1"> PhD, Monash University, Australia </br> Co-founder, R-Ladies Colombo</font>
+[Priyanga Dilini Talagala](https://prital.netlify.com/) </font></br><font size="+1"> PhD, Monash University, Australia </br> Co-founder, R-Ladies Colombo</font>
 </p>
 <img src="img/team/PriyangaT.png" style="fixed: left;" />
