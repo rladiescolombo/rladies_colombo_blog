@@ -29,6 +29,10 @@ user_groups:
 ---
 ## Welcome to R-Ladies Colombo!
 
+{{% alert note %}}
+This site is still under development.
+{{% /alert %}}
+
 R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community. 
 
 R-Ladies Colombo chapter is a part of the [R-Ladies Global](https://rladies.org/about-us/) community with the aim of building a colloboraitve network of R enthusiasts, newbies, learners and  experts to facilitate individual and collective progress while achieving proportionate representation by encouraging, inspiring, and empowering people of genders currently underrepresented in the R community via meetups, mentorship & global collaboration!. There are 140+ R-Ladies chapters worldwide and R-Ladies Colombo is the first ever chapter in Sri Lanka. As a founding principle, there is no cost or charge to participate in any of our R-Ladies chapter events. To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the [R-Ladies International Code of Conduct.](https://rladies.org/code-of-conduct/)
