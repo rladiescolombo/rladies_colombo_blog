@@ -37,7 +37,7 @@ R-Ladies Colombo is a local chapter of [R-Ladies Global]( https://www.rladies.or
 
 R-Ladies welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!
 
-As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world. heck out our upcoming events on our [meetup](https://www.meetup.com/rladies-colombo/) page. You can access our presentations, R scripts, and Projects on our [Github account](https://github.com/rladiescolombo ) and follow us on [twitter]( https://twitter.com/RLadiesGlobal) to stay up to date about R-Ladies news! C
+As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world. Check out our upcoming events on our [meetup](https://www.meetup.com/rladies-colombo/) page. You can access our presentations, R scripts, and Projects on our [Github account](https://github.com/rladiescolombo ) and follow us on [twitter]( https://twitter.com/RLadiesGlobal) to stay up to date about R-Ladies news! C
 
 To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the  [R-Ladies International Code of Conduct]( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) and [community guidelines]( https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md ).
 
