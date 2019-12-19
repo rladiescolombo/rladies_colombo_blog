@@ -62,7 +62,7 @@ Organizers </font>
 
 <font size="+2">
 <p style="text-align: left;">
-[R-Ladies Global](https://rladies.org/about-us/) </font></br><font size="+1">San Francisco, CA</font> </p>
+[R-Ladies Global](https://rladies.org/about-us/) </font></br><font size="+1">Organizer </br> San Francisco, CA</font> </p>
 
 <img src="img/team/R-LadiesGlobal.png" style="fixed: left;"/>
 
