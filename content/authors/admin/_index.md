@@ -38,6 +38,6 @@ As a founding principle, there is no cost or charge to participate in any of our
 To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the  [R-Ladies International Code of Conduct]( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) and [community guidelines]( https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md ).
 
 If you would like present at R-Ladies Colombo or have an idea for an event you would like us to organize (eg: R workshops, career panels, networking events, and talks from package developers), get in contact via twitter [@RLadiesColombo](https://twitter.com/RLadiesColombo)
- or email us at colombo@rladies.org.
+ or email us at [colombo@rladies.org](https://rladiescolombo.netlify.com/#demo_home).
 
 For more information about R-Ladies Global, visit [rladies.org](https://rladies.org/).
