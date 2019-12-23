@@ -17,4 +17,4 @@ url_video: ""
 
 Study groups meet separately at their own designated times to talk about R-related topics and to promote the use of R.
 
-If you would like to start or lead a Study Group contact us at XXX and we will offer guidelines and assistance. 
+If you would like to start or lead a Study Group contact us at colombo@rladies.org and we will offer guidelines and assistance. 

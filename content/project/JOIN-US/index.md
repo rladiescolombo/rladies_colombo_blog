@@ -23,3 +23,5 @@ R-Ladies Colombo welcomes anyone with an interest in R, whether you’re a newbi
 - Write a blog post
 - Live tweet at our Meetups and events
 - Contribute to solve issues on our GitHub page
+
+Check out our upcoming events on our [meetup](https://www.meetup.com/rladies-colombo/) page.
