@@ -17,7 +17,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/RLadiesColombo
+  link: https://twaitter.com/RLadiesGlobal
 - icon: meetup
   icon_pack: fab
   link: https://www.meetup.com/rladies-colombo/
@@ -33,11 +33,10 @@ R-Ladies Colombo is a local chapter of [R-Ladies Global]( https://www.rladies.or
 
 R-Ladies welcomes members of all R proficiency levels, whether you're a new or aspiring R user, or an experienced R programmer interested in mentoring, networking & expert upskilling. Our community is designed to develop our members' R skills & knowledge through social, collaborative learning & sharing. Supporting minority identity access to STEM skills & careers, the Free Software Movement, and contributing to the global R community!
 
-As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world. Check out our upcoming events on our [meetup](https://www.meetup.com/rladies-colombo/) page. You can access our presentations, R scripts, and Projects on our [Github account](https://github.com/rladiescolombo ) and follow us on [twitter]( https://twitter.com/RLadiesColombo) to stay up to date about R-Ladies news! 
+As a founding principle, there is no cost or charge to participate in any of our R-Ladies communities around the world. Check out our upcoming events on our [meetup](https://www.meetup.com/rladies-colombo/) page. You can access our presentations, R scripts, and Projects on our [Github account](https://github.com/rladiescolombo ) and follow us on [twitter](https://twaitter.com/RLadiesGlobal) to stay up to date about R-Ladies news! 
 
 To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the  [R-Ladies International Code of Conduct]( https://github.com/rladies/starter-kit/wiki/Code-of-Conduct ) and [community guidelines]( https://github.com/rladies/starter-kit/blob/master/RLadiesRulesAndGuideLinesENES.md ).
 
-If you would like present at R-Ladies Colombo or have an idea for an event you would like us to organize (eg: R workshops, career panels, networking events, and talks from package developers), get in contact via twitter [@RLadiesColombo](https://twitter.com/RLadiesColombo)
- or email us at [colombo@rladies.org](https://rladiescolombo.netlify.com/#demo_home).
+If you would like present at R-Ladies Colombo or have an idea for an event you would like us to organize (eg: R workshops, career panels, networking events, and talks from package developers, email us at [colombo@rladies.org](https://rladiescolombo.netlify.com/#demo_home).
 
 For more information about R-Ladies Global, visit [rladies.org](https://rladies.org/).
