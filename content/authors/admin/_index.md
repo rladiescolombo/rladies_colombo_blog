@@ -17,7 +17,7 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twaitter.com/RLadiesGlobal
+  link: https://twitter.com/RLadiesGlobal
 - icon: meetup
   icon_pack: fab
   link: https://www.meetup.com/rladies-colombo/
