@@ -279,24 +279,6 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Launching R-Ladies Colombo!</title>
       <link>/talk/event1-launch/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -334,6 +316,8 @@ $$&lt;/p&gt;
 &lt;li&gt;Live tweet at our Meetups and events&lt;/li&gt;
 &lt;li&gt;Contribute to solve issues on our GitHub page&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Check out our upcoming events on our &lt;a href=&#34;https://www.meetup.com/rladies-colombo/&#34;&gt;meetup&lt;/a&gt; page.&lt;/p&gt;
 </description>
     </item>
     
@@ -344,7 +328,7 @@ $$&lt;/p&gt;
       <guid>/project/study-group/</guid>
       <description>&lt;p&gt;Study groups meet separately at their own designated times to talk about R-related topics and to promote the use of R.&lt;/p&gt;
 
-&lt;p&gt;If you would like to start or lead a Study Group contact us at XXX and we will offer guidelines and assistance.&lt;/p&gt;
+&lt;p&gt;If you would like to start or lead a Study Group contact us at colombo@rladies.org and we will offer guidelines and assistance.&lt;/p&gt;
 </description>
     </item>
     
