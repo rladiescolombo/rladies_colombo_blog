@@ -5,7 +5,10 @@ bio:
 email: "colombo@rladies.org"
 interests:
 - R Programming
-- Diversity
+- Data Visualisation
+- Statistical Machine Learning
+- Building Interactive Web Apps
+- Building Dynamic Reports & Dashboards
 name: R-Ladies Colombo
 organizations:
 - name: ""
