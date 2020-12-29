@@ -5,7 +5,7 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/R-Ladiesdisplayname.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -13,17 +13,34 @@
     </image>
     
     <item>
+      <title>R Markdown-On your marks, get set, ready, go!</title>
+      <link>/talk/rmarkdown/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/rmarkdown/</guid>
+      <description>&lt;h2 id=&#34;r-markdown-on-your-marks-get-set-ready-go&#34;&gt;R Markdown: On your marks, get set, ready, go!&lt;/h2&gt;
+&lt;p&gt;Hello, R enthusiasts!!! Would you like to analyse your data, share and reproduce your results, All in one go? Let&#39;s do it with R Markdown !!!&lt;/p&gt;
+&lt;p&gt;Come join us in our upcoming meet-up &amp;ldquo;R Markdown: On Your Marks, Get Set, GO!!!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is R Markdown&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;R Markdown allows you to generate documents of all types (reports, presentations, books, etc.) with embedded R code and outputs (plots, tables, figures etc.).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Who is this for&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This introduction is appropriate for anyone with a general interest in R and R Markdown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prerequisites&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Prior knowledge in R programming language is recommended but not necessary.
+Attendees are expected to have the most recent version of R and RStudio installed on their own computers, along with the following packages and their dependencies.&lt;/p&gt;
+&lt;p&gt;Slides: &lt;a href=&#34;https://talks-thiyanga.netlify.app/rmarkdown_rladies/rmarkdownrladies_tst#1&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tutorial demos: &lt;a href=&#34;https://github.com/rladiescolombo/RMarkdown_RLadiesColombo&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Launching R-Ladies Colombo!</title>
       <link>/talk/event1-launch/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>/talk/event1-launch/</guid>
       <description>&lt;p&gt;First meetup for R-Ladies Colombo is coming and agenda will be out soon. Stay Tune !!&lt;/p&gt;
-
 &lt;p&gt;This is the first ever R-Ladies Chapter in Sri Lanka. Anyone with an interest in R is welcome. You can be an R expert or novice. We will promote R, exchange ideas and knowledge and create a friendly network among everyone who use R.&lt;/p&gt;
-
-&lt;p&gt;Follow us on &lt;a href=&#34;https://twitter.com/RLadiesGlobal&#34;&gt;Twitter&lt;/a&gt; for updates!&lt;/p&gt;
-
-&lt;p&gt;If you have an idea for an event you would like us to organise (eg: R workshops, career panels, networking events, and talks from package developers) or keen to present at an R-Ladies Colombo event, get in contact via twitter XXX or email us at XXX.&lt;/p&gt;
+&lt;p&gt;Follow us on &lt;a href=&#34;https://twitter.com/RLadiesColombo&#34;&gt;Twitter&lt;/a&gt; for updates!&lt;/p&gt;
+&lt;p&gt;If you have an idea for an event you would like us to organise (eg: R workshops, career panels, networking events, and talks from package developers) or keen to present at an R-Ladies Colombo event, get in contact via &lt;a href=&#34;https://twitter.com/RLadiesColombo&#34;&gt;Twitter&lt;/a&gt; or email us at &lt;a href=&#34;mailto:colombo@rladies.org&#34;&gt;colombo@rladies.org&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -20,11 +20,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/RLadiesGlobal
+  url: https://twitter.com/RLadiesColombo
 location: To be announced
 math: true
 projects:
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-12-01T00:00:00Z"
 slides: 
 summary: 
 tags: []

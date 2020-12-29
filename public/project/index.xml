@@ -17,14 +17,9 @@
       <link>/project/join-us/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/join-us/</guid>
-      <description>
-
-&lt;p&gt;R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community via meetups, colloborations and mentorship in a friendly and safe environment. There are 140+ R-Ladies chapters worldwide and R-Ladies Colombo is the first ever chapter in Sri Lanka.&lt;/p&gt;
-
+      <description>&lt;p&gt;R-Ladies is a worldwide organization whose mission is to promote gender diversity in the R community via meetups, colloborations and mentorship in a friendly and safe environment. There are 140+ R-Ladies chapters worldwide and R-Ladies Colombo is the first ever chapter in Sri Lanka.&lt;/p&gt;
 &lt;p&gt;R-Ladies Colombo welcomes anyone with an interest in R, whether you’re a newbiew, aspiring R user or an experienced R programmer. All you have to do is to provide, create and maintain a safe, friendly and welcoming environment where all members can interact and enjoy the benefit.&lt;/p&gt;
-
 &lt;h3 id=&#34;how-can-you-contribute&#34;&gt;How can you contribute?&lt;/h3&gt;
-
 &lt;ul&gt;
 &lt;li&gt;Give a talk at a future meetup&lt;/li&gt;
 &lt;li&gt;Lead/organize a hackathon or a collaborative coding activity&lt;/li&gt;
@@ -35,7 +30,6 @@
 &lt;li&gt;Live tweet at our Meetups and events&lt;/li&gt;
 &lt;li&gt;Contribute to solve issues on our GitHub page&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Check out our upcoming events on our &lt;a href=&#34;https://www.meetup.com/rladies-colombo/&#34;&gt;meetup&lt;/a&gt; page.&lt;/p&gt;
 </description>
     </item>
@@ -46,8 +40,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/project/study-group/</guid>
       <description>&lt;p&gt;Study groups meet separately at their own designated times to talk about R-related topics and to promote the use of R.&lt;/p&gt;
-
-&lt;p&gt;If you would like to start or lead a Study Group contact us at colombo@rladies.org and we will offer guidelines and assistance.&lt;/p&gt;
+&lt;p&gt;If you would like to start or lead a Study Group contact us at &lt;a href=&#34;mailto:colombo@rladies.org&#34;&gt;colombo@rladies.org&lt;/a&gt; and we will offer guidelines and assistance.&lt;/p&gt;
 </description>
     </item>
     
