@@ -1,0 +1,13 @@
+base
+knitr
+anicon
+DSjobtracker
+tidyr
+magrittr
+dplyr
+ggplot2
+viridisLite
+viridis
+forcats
+gganimate
+gapminder
