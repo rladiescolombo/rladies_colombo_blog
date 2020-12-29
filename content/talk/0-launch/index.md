@@ -11,20 +11,20 @@ authors: []
 date: 
 date_end:
 event: R-Ladies Colombo launch event
-event_url: https://www.meetup.com/pro/rladies
+event_url: https://www.meetup.com/rladies-colombo/events/275260700/
 featured: false
 image:
-  caption: 'Lotus Tower, Colombo, Sri Lanka, Image credit: [**Unsplash**](https://unsplash.com/photos/9PPYa3LK6II)'
+  caption: 'R-Ladies Colombo'
   focal_point: Right
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/RLadiesColombo
-location: To be announced
+location: via Zoom
 math: true
 projects:
-publishDate: "2019-12-01T00:00:00Z"
+publishDate: "2020-12-28T05:00:00Z"
 slides: 
 summary: 
 tags: []
@@ -34,8 +34,7 @@ url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-
-First meetup for R-Ladies Colombo is coming and agenda will be out soon. Stay Tune !!
+![Hello World! We are R-Ladies Colombo](img/helloworld.gif)
 
 This is the first ever R-Ladies Chapter in Sri Lanka. Anyone with an interest in R is welcome. You can be an R expert or novice. We will promote R, exchange ideas and knowledge and create a friendly network among everyone who use R.
 
