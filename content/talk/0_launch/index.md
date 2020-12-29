@@ -24,7 +24,7 @@ links:
 location: via Zoom
 math: true
 projects:
-publishDate: "2020-12-28T05:00:00Z"
+publishDate: "2020-12-28T17:00:00Z"
 slides: 
 summary: 
 tags: []
@@ -34,7 +34,6 @@ url_pdf: ""
 url_slides: "talks/0_launch/RLadies-Intro.html"
 url_video: ""
 ---
-![Hello World! We are R-Ladies Colombo](static/img/helloworld.gif)
 
 This is the first ever R-Ladies Chapter in Sri Lanka. Anyone with an interest in R is welcome. You can be an R expert or novice. We will promote R, exchange ideas and knowledge and create a friendly network among everyone who use R.
 

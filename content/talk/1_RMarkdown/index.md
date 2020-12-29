@@ -2,7 +2,7 @@
 title: R Markdown-On your marks, get set, ready, go!
 event_url: https://www.meetup.com/rladies-colombo/events/275260700/
 location: via Zoom
-publishDate: "2020-12-28T05:15:00Z"
+publishDate: "2020-12-28T17:15:00Z"
 links:
 - icon: twitter
   icon_pack: fab
