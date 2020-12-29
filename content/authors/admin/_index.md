@@ -32,7 +32,7 @@ user_groups:
 ---
 ## Welcome to R-Ladies Colombo!
 
-![](helloworld.gif)
+![Hello World! We are R-Ladies Colombo](helloworld.gif)
 
 R-Ladies Colombo is a local chapter of [R-Ladies Global]( https://www.rladies.org), an organization that promotes diversity in the R community worldwide. We meetup in person or virtually to learn about the R programming language, algorithms and advanced tools.  There are 197 R-Ladies chapters worldwide and R-Ladies Colombo is the first ever chapter in Sri Lanka.
 
