@@ -2,7 +2,7 @@
 title: Plot a lot with ggplot2 to find plots 
 event_url: https://www.meetup.com/rladies-colombo/events/275639176/
 location: via Zoom
-publishDate: "2021-01-09T17:15:00Z"
+publishDate: "2021-01-09"
 links:
 - icon: twitter
   icon_pack: fab
