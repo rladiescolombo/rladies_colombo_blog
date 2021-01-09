@@ -1,17 +1,14 @@
 ---
-title: Plot a lot with ggplot2 to find plots
+title: Plot a lot with ggplot2 to find plots 
 event_url: https://www.meetup.com/rladies-colombo/events/275639176/
 location: via Zoom
-publishDate: "2021-01-09T17:15:00Z"
+publishDate: "2020-01-09T17:15:00Z"
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
   url: https://twitter.com/RLadiesColombo
 url_code: "https://github.com/rladiescolombo/RMarkdown_RLadiesColombo"
-url_pdf: ""
-url_slides:"" 
-url_video: ""
 ---
 
 ## Plot a lot with ggplot2 to find plots 
@@ -42,6 +39,6 @@ Monday, 27 January, 2021 from 5.00pm - 6.30 pm ( Time Zone - GMT+5.30, India)
 **Where ?**
 
 We'll be live on Zoom.
-Zoom link: TBA
-Sign up for the meetup : [https://www.meetup.com/rladies-colombo/events/275639176/](https://www.meetup.com/rladies-colombo/events/275639176/)
+Zoom link- TBA
+Sign up for the meetup- [https://www.meetup.com/rladies-colombo/events/275639176/](https://www.meetup.com/rladies-colombo/events/275639176/)
 
