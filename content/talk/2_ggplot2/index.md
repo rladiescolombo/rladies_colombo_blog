@@ -22,20 +22,25 @@ Let's do it with ggplot2 !!!
 
 Come join us in our upcoming meet-up "Plot a lot with ggplot2 to find plots"
 
-`> ?ggplot2`
+**ggplot2**
+
 R package, ggplot2 is dedicated to data visualization and is based on "The Grammar of Graphics".
 
-`> ? Who is this for`
+**Who is this for ?**
+
 This introduction is appropriate for anyone with a general interest in R and data visualization.
 
-`>? Prerequisites`
+**Prerequisites**
+
 Prior knowledge in R programming language is recommended but not necessary.
 Attendees are expected to have the most recent version of R and RStudio installed on their own computers, along with the following packages and their dependencies.
 
-`> ?when`
+**When ?**
+
 Monday, 27 January, 2021 from 5.00pm - 6.30 pm ( Time Zone - GMT+5.30, India)
 
-`> ?where`
+**Where ?**
+
 We'll be live on Zoom.
 Zoom link: TBA
 Sign up for the meetup : [https://www.meetup.com/rladies-colombo/events/275639176/](https://www.meetup.com/rladies-colombo/events/275639176/)
