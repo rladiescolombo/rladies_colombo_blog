@@ -9,6 +9,7 @@ links:
   name: Follow
   url: https://twitter.com/RLadiesColombo
 url_code: "https://github.com/rladiescolombo/RMarkdown_RLadiesColombo"
+url_slides: "https://prital.netlify.app/talks/rladies2021/rladies-ggplot2#1"
 ---
 
 ## Plot a lot with ggplot2 to find plots 
@@ -38,7 +39,8 @@ Monday, 27 January, 2021 from 5.00pm - 6.30 pm ( Time Zone - GMT+5.30, India)
 
 **Where ?**
 
-We'll be live on Zoom.
-Zoom link- TBA
-Sign up for the meetup- [https://www.meetup.com/rladies-colombo/events/275639176/](https://www.meetup.com/rladies-colombo/events/275639176/)
+Via Zoom.
+Meetup link- [https://www.meetup.com/rladies-colombo/events/275639176/](https://www.meetup.com/rladies-colombo/events/275639176/)
+
+Slides: [here](https://prital.netlify.app/talks/rladies2021/rladies-ggplot2#1)
 
