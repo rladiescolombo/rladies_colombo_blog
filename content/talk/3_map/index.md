@@ -2,7 +2,7 @@
 title: Around the world in 30 minutes (Map Creation with R)
 event_url: https://www.meetup.com/rladies-colombo/events/276103634/
 location: via Zoom
-publishDate: "2021-02-23T12:00:00Z"
+publishDate: "2021-02-22"
 links:
 - icon: twitter
   icon_pack: fab
