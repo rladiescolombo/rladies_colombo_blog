@@ -17,7 +17,7 @@ Hello, R enthusiasts!!!
 
 Do you want to do machine learning using R, but you’re having trouble getting started?
 
-Come join us in our upcoming meet-up “Machine Learning in R”
+Come join us in our upcoming meet-up “Machine Learning in R”.
 
 > ? Speaker
 
