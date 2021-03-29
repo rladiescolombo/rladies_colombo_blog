@@ -5,12 +5,62 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/R-Ladiesdisplayname.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Machine Learning in R</title>
+      <link>/talk/4_machinelearning/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/4_machinelearning/</guid>
+      <description>&lt;h2 id=&#34;machine-learning-in-r&#34;&gt;Machine Learning in R&lt;/h2&gt;
+&lt;p&gt;Hello, R enthusiasts!!!&lt;/p&gt;
+&lt;p&gt;Do you want to do machine learning using R, but you’re having trouble getting started?&lt;/p&gt;
+&lt;p&gt;Come join us in our upcoming meet-up “Machine Learning in R”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? Speaker&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Dr. Kasun Bandara, University of Melbourne, Australia&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? Who is this for&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This introduction is appropriate for anyone with a general interest in R and Machine Learning.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? Prerequisites&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Prior knowledge in R programming language and machine learning is recommended but not necessary. Attendees are expected to have the most recent version of R and RStudio installed on their own computers.&lt;/p&gt;
+&lt;p&gt;Here are links to free downloads for R (&lt;a href=&#34;https://cran.r-project.org/&#34;&gt;https://cran.r-project.org/&lt;/a&gt;) and RStudio (&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/#download)&#34;&gt;https://www.rstudio.com/products/rstudio/download/#download)&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? when&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Monday, 29 March, 2021 from 12.00 pm - 1.00 pm ( Time Zone - GMT+5.30, India)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;?where&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We’ll be live on Zoom.&lt;/p&gt;
+&lt;p&gt;Join Zoom Meeting
+&lt;a href=&#34;https://learn.zoom.us/j/65267085753?pwd=TDBNaVlCL1R6SVl0OUcxNXZSNThodz09&#34;&gt;https://learn.zoom.us/j/65267085753?pwd=TDBNaVlCL1R6SVl0OUcxNXZSNThodz09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 652 6708 5753
+Passcode: pBS^%9z0&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;?Agenda&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;12.00 noon - 12.15 pm:Meet &amp;amp; Greet | Networking&lt;/li&gt;
+&lt;li&gt;12.15 pm - 12.45 pm: Workshop on “Machine Learning in R”&lt;/li&gt;
+&lt;li&gt;12.45 pm -1.00 pm: Discussion with audience on questions / resources | More Networking | Wrap up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: &lt;a href=&#34;https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT&#34;&gt;https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT&lt;/a&gt;. md&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event organizers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thiyanga.netlify.app/&#34;&gt;Thiyanga S. Talagala&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://prital.netlify.app/&#34;&gt;Priyanga Dilini Talagala&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Around the world in 30 minutes (Map Creation with R)</title>

@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>R-Ladies Colombo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/R-Ladiesdisplayname.png</url>
       <title>R-Ladies Colombo</title>
@@ -51,6 +51,56 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in R</title>
+      <link>/talk/4_machinelearning/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/4_machinelearning/</guid>
+      <description>&lt;h2 id=&#34;machine-learning-in-r&#34;&gt;Machine Learning in R&lt;/h2&gt;
+&lt;p&gt;Hello, R enthusiasts!!!&lt;/p&gt;
+&lt;p&gt;Do you want to do machine learning using R, but you’re having trouble getting started?&lt;/p&gt;
+&lt;p&gt;Come join us in our upcoming meet-up “Machine Learning in R”&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? Speaker&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;Dr. Kasun Bandara, University of Melbourne, Australia&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? Who is this for&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This introduction is appropriate for anyone with a general interest in R and Machine Learning.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? Prerequisites&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Prior knowledge in R programming language and machine learning is recommended but not necessary. Attendees are expected to have the most recent version of R and RStudio installed on their own computers.&lt;/p&gt;
+&lt;p&gt;Here are links to free downloads for R (&lt;a href=&#34;https://cran.r-project.org/&#34;&gt;https://cran.r-project.org/&lt;/a&gt;) and RStudio (&lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/#download)&#34;&gt;https://www.rstudio.com/products/rstudio/download/#download)&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;? when&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Monday, 29 March, 2021 from 12.00 pm - 1.00 pm ( Time Zone - GMT+5.30, India)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;?where&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We’ll be live on Zoom.&lt;/p&gt;
+&lt;p&gt;Join Zoom Meeting
+&lt;a href=&#34;https://learn.zoom.us/j/65267085753?pwd=TDBNaVlCL1R6SVl0OUcxNXZSNThodz09&#34;&gt;https://learn.zoom.us/j/65267085753?pwd=TDBNaVlCL1R6SVl0OUcxNXZSNThodz09&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Meeting ID: 652 6708 5753
+Passcode: pBS^%9z0&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;?Agenda&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;12.00 noon - 12.15 pm:Meet &amp;amp; Greet | Networking&lt;/li&gt;
+&lt;li&gt;12.15 pm - 12.45 pm: Workshop on “Machine Learning in R”&lt;/li&gt;
+&lt;li&gt;12.45 pm -1.00 pm: Discussion with audience on questions / resources | More Networking | Wrap up&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To ensure a safe, enjoyable, and friendly experience for everyone who participates, we follow the R-Ladies International Code of Conduct here: &lt;a href=&#34;https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT&#34;&gt;https://github.com/rladies/.github/blob/master/CODE_OF_CONDUCT&lt;/a&gt;. md&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Event organizers&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://thiyanga.netlify.app/&#34;&gt;Thiyanga S. Talagala&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;and&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://prital.netlify.app/&#34;&gt;Priyanga Dilini Talagala&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
