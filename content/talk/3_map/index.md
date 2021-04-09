@@ -43,14 +43,7 @@ Tuesday, 23 February, 2021 from 12.00 noon - 1.00 pm ( Time Zone - GMT+5.30, Ind
 **Where**
 
 We'll be live on Zoom.
-Zoom link :
 
-Join Zoom Meeting
-https://learn.zoom.us/j/62922672425?pwd=TDFzd2ZENHZSU21INHRsS0JpalU5Zz09
-
-Meeting ID: 629 2267 2425
-
-Passcode: 5XcY3N@0
 
 **Agenda**
 

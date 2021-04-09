@@ -41,11 +41,6 @@ Monday, 29 March, 2021 from 12.00 pm - 1.00 pm ( Time Zone - GMT+5.30, India)
 
 We’ll be live on Zoom.
 
-Join Zoom Meeting
-https://learn.zoom.us/j/65267085753?pwd=TDBNaVlCL1R6SVl0OUcxNXZSNThodz09
-
-Meeting ID: 652 6708 5753
-Passcode: pBS^%9z0
 
 > ?Agenda
 
