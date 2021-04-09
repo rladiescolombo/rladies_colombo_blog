@@ -44,7 +44,7 @@ We’ll be live on Zoom.
 
 > ?Agenda
 
-- 12.00 noon - 12.15 pm:Meet & Greet | Networking
+- 12.00 noon - 12.15 pm: Meet & Greet | Networking
 - 12.15 pm - 12.45 pm: Workshop on “Machine Learning in R”
 - 12.45 pm -1.00 pm: Discussion with audience on questions / resources | More Networking | Wrap up
 
